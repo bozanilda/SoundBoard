@@ -14,6 +14,7 @@
 		E88C90092CB3AB63005B4825 /* BozaSoundBoard.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = E88C90072CB3AB63005B4825 /* BozaSoundBoard.xcdatamodeld */; };
 		E88C900B2CB3AB64005B4825 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E88C900A2CB3AB64005B4825 /* Assets.xcassets */; };
 		E88C900E2CB3AB64005B4825 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = E88C900D2CB3AB64005B4825 /* Base */; };
+		E88C90162CB3BE12005B4825 /* SoundViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E88C90152CB3BE12005B4825 /* SoundViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		E88C900A2CB3AB64005B4825 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E88C900D2CB3AB64005B4825 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E88C900F2CB3AB64005B4825 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E88C90152CB3BE12005B4825 /* SoundViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				E88C900C2CB3AB64005B4825 /* LaunchScreen.storyboard */,
 				E88C900F2CB3AB64005B4825 /* Info.plist */,
 				E88C90072CB3AB63005B4825 /* BozaSoundBoard.xcdatamodeld */,
+				E88C90152CB3BE12005B4825 /* SoundViewController.swift */,
 			);
 			path = BozaSoundBoard;
 			sourceTree = "<group>";
@@ -145,6 +148,7 @@
 				E88C90032CB3AB63005B4825 /* ViewController.swift in Sources */,
 				E88C8FFF2CB3AB63005B4825 /* AppDelegate.swift in Sources */,
 				E88C90012CB3AB63005B4825 /* SceneDelegate.swift in Sources */,
+				E88C90162CB3BE12005B4825 /* SoundViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
